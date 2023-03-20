@@ -1,3 +1,5 @@
+Youtube playlist:
+https://www.youtube.com/watch?v=sby4rxdmabI&list=RDCMUCRS4DvO9X7qaqVYUW2_dwOw&start_radio=1&rv=sby4rxdmabI&t=1
 First:
 - Download the IDE -- he suggested intellij, but I will use vscode
 - go to the website:  
